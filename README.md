@@ -7,7 +7,7 @@ By default a route53 record will be created for the provided dns_name. The subdo
 
 ## Terraform version
 
-- Terraform 0.12: Pin module to `~> 2+`, submit pull request to branch `terrafomr012`
+- Terraform 0.12: Pin module to `~> 2+`, submit pull request to branch `terraform012`
 - Terraform 0.11: Pin module to `~> 1.x`, submit pull request to branch `develop`
 
 
